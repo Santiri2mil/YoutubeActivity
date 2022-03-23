@@ -9,8 +9,8 @@ import com.google.android.youtube.player. YouTubeBaseActivity
 import com.google.android.youtube.player. YouTubeInitializationResult 
 import com.google.android.youtube.player. YouTubePlayer 
 import com.google.android.youtube.player. YouTubePlayerView
-const val YOUTUBE_VIDEO_ID_KEY = "UE-1RPD JAY" 
-const val PLAYLIST_ID_KEY = "PL5xXPE-53EGT4AFTZFRISKELI6h2UHrif"
+const val YOUTUBE_VIDEO_ID_KEY = "DYed5whEf4g" 
+const val PLAYLIST_ID_KEY = "PLZlv_N0_O1ga2b_ZaJoaR5dLHOFw4-MMl"
 class YouTubePlayerActivity : YouTubeBaseActivity, YouTubePlayer.OnInitializedListener{
 val TAG = "YouTubePlayerActivity" 
 override fun onCreate(savedInstanceState: Bundle?) {
